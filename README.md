@@ -15,7 +15,7 @@ The work focuses on applying machine learning, natural language processing, and 
 
 ## Featured Projects
 
-### Chef Bot — Ingredient-to-Recipe Recommender ### [Chef Bot — Ingredient-to-Recipe Recommender.ipynb)
+### [Chef Bot — Ingredient-to-Recipe Recommender](Chef%20Bot%20%E2%80%94%20Ingredient-to-Recipe%20Recommender.ipynb)
 *A retrieval-based and conversational recommendation system for reducing food waste*
 
 Developed a two-stage recommendation system that suggests recipes based on available ingredients and supports conversational follow-up queries using a lightweight language model.
@@ -28,7 +28,7 @@ Developed a two-stage recommendation system that suggests recipes based on avail
 
 ---
 
-### Predicting Parcel Pickup Time — GoLocker NYC
+### [Predicting Parcel Pickup Time — GoLocker NYC](Predicting%20Parcel%20Pickup%20Time%20%E2%80%94%20GoLocker%20NYC.ipynb)
 *Machine learning for optimisation of smart locker logistics*
 
 Built a multiclass classification model to predict parcel dwell time in NYC smart lockers using real operational data.
@@ -43,7 +43,7 @@ Built a multiclass classification model to predict parcel dwell time in NYC smar
 
 ## Coursework Projects
 
-### UK Greenhouse Gas Emissions — EDA & Clustering
+### [UK Greenhouse Gas Emissions — EDA & Clustering](UK%20Greenhouse%20Gas%20Emissions.ipynb)
 Exploratory data analysis and clustering of UK emissions data to identify structural patterns across sectors.
 
 - Implemented KMeans clustering and statistical analysis from scratch  
@@ -53,7 +53,7 @@ Exploratory data analysis and clustering of UK emissions data to identify struct
 
 ---
 
-### Financial Asset Analysis — Ethereum vs Novo Nordisk
+### [Financial Asset Analysis — Ethereum vs Novo Nordisk](Financial%20Asset%20Analysis%20%E2%80%94%20Ethereum%20vs%20Novo%20Nordisk.ipynb)
 Quantitative analysis of crypto and equity assets using risk-return frameworks.
 
 - Calculated log returns, volatility, and Sharpe ratios  
