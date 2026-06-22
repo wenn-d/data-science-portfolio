@@ -1,5 +1,5 @@
 # Data Science Portfolio
-**Win Pa Pa Swe** | MSc Business Administration and Data Science, Copenhagen Business School
+** Wendy Win Pa Pa Swe** | MSc Business Administration and Data Science, Copenhagen Business School
 
 ---
 
