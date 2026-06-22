@@ -15,7 +15,7 @@ The work focuses on applying machine learning, natural language processing, and 
 
 ## Featured Projects
 
-### Chef Bot — Ingredient-to-Recipe Recommender
+### Chef Bot — Ingredient-to-Recipe Recommender ### [Chef Bot — Ingredient-to-Recipe Recommender.ipynb)
 *A retrieval-based and conversational recommendation system for reducing food waste*
 
 Developed a two-stage recommendation system that suggests recipes based on available ingredients and supports conversational follow-up queries using a lightweight language model.
