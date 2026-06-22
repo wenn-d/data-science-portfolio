@@ -82,4 +82,4 @@ Data Visualisation: Power BI, Tableau, Excel
 ## Contact
 
 GitHub: https://github.com/wenn-d  
-LinkedIn: linkedin.com/in/wendy-win-pa-pa-swe-290702260
+LinkedIn: [linkedin.com/in/wendy-win-pa-pa-swe-290702260](https://www.linkedin.com/in/wendy-win-pa-pa-swe-290702260/)
