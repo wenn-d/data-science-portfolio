@@ -9,7 +9,7 @@ MSc Business Administration and Data Science, Copenhagen Business School
 
 This repository contains selected data science and machine learning projects completed during my MSc at Copenhagen Business School.
 
-The work focuses on applying machine learning, natural language processing, and statistical analysis to real-world datasets across logistics, finance, and sustainability domains.
+The work focuses on applying machine learning, natural language processing, and statistical analysis to real-world datasets across different domains.
 
 ---
 
