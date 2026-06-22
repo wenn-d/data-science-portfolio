@@ -24,7 +24,7 @@ Developed a two-stage recommendation system that suggests recipes based on avail
 - Built a retrieval-augmented generation (RAG) pipeline to improve relevance and interaction quality  
 - Implemented a conversational layer using a local LLM for iterative user queries  
 
-**Tools:** Python, NLP (SBERT, TF-IDF, Word2Vec), pandas, scikit-learn
+**Tools:** Python (pandas, scikit-learn), NLP (SBERT, TF-IDF, Word2Vec)
 
 ---
 
@@ -37,7 +37,7 @@ Built a multiclass classification model to predict parcel dwell time in NYC smar
 - Trained and compared multiple models including Random Forest, Logistic Regression, and Neural Networks  
 - Analysed operational patterns to support improved logistics efficiency  
 
-**Tools:** Python, scikit-learn, pandas
+**Tools:** Python (scikit-learn, pandas)
 
 ---
 
@@ -49,7 +49,7 @@ Exploratory data analysis and clustering of UK emissions data to identify struct
 - Implemented KMeans clustering and statistical analysis from scratch  
 - Investigated correlations and emission trends across categories  
 
-**Tools:** Python, pandas, NumPy
+**Tools:** Python (pandas, NumPy)
 
 ---
 
@@ -60,15 +60,14 @@ Quantitative analysis of crypto and equity assets using risk-return frameworks.
 - Built Monte Carlo simulations for portfolio analysis  
 - Compared risk-adjusted performance across asset classes  
 
-**Tools:** Python, pandas, NumPy
+**Tools:** Python (pandas, NumPy)
 
 ---
 
 ## Skills
 
-Machine learning, natural language processing, and data analysis using Python.
-
-Tools include: pandas, NumPy, scikit-learn, and visualisation tools such as Power BI and Tableau.
+Programming: Python, R, SQL  
+Data Visualisation: Power BI, Tableau, Excel
 
 ---
 
