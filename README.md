@@ -15,7 +15,7 @@ The work focuses on applying machine learning, natural language processing, and 
 
 ## Featured Projects
 
-### [Chef Bot — Ingredient-to-Recipe Recommender]
+### [Chef Bot — Ingredient-to-Recipe Recommender](https://github.com/wenn-d/data-science-portfolio/blob/main/Chef%20Bot%20%E2%80%94%20Ingredient-to-Recipe%20Recommender.ipynb)
 *Group project | Machine Learning Course, CBS*  
 *A retrieval-based and conversational recommendation system for reducing food waste*
 
@@ -29,7 +29,7 @@ Developed a two-stage recommendation system that suggests recipes based on avail
 
 ---
 
-### [Predicting Parcel Pickup Time — GoLocker NYC]
+### [Predicting Parcel Pickup Time — GoLocker NYC](https://github.com/wenn-d/data-science-portfolio/blob/main/Predicting%20Parcel%20Pickup%20Time%20%E2%80%94%20GoLocker%20NYC.ipynb)
 *Group project | Machine Learning and Deep Learning Course, CBS*
 
 *Machine learning for optimisation of smart locker logistics*
@@ -46,7 +46,7 @@ Built a multiclass classification model to predict parcel dwell time in NYC smar
 
 ## Coursework Projects
 
-### [UK Greenhouse Gas Emissions — EDA & Clustering]
+### [UK Greenhouse Gas Emissions — EDA & Clustering](https://github.com/wenn-d/data-science-portfolio/blob/main/UK%20Greenhouse%20Gas%20Emissions.ipynb)
 *Group project | Machine Learning and Deep Learning Course, CBS*
 Exploratory data analysis and clustering of UK emissions data to identify structural patterns across sectors.
 
@@ -57,7 +57,7 @@ Exploratory data analysis and clustering of UK emissions data to identify struct
 
 ---
 
-### [Financial Asset Analysis — Ethereum vs Novo Nordisk]
+### [Financial Asset Analysis — Ethereum vs Novo Nordisk](https://github.com/wenn-d/data-science-portfolio/blob/main/Financial%20Asset%20Analysis%20%E2%80%94%20Ethereum%20vs%20Novo%20Nordisk.ipynb)
 *Group project | Machine Learning and Deep Learning Course, CBS*
 Quantitative analysis of crypto and equity assets using risk-return frameworks.
 
