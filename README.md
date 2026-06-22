@@ -15,7 +15,7 @@ The work focuses on applying machine learning, natural language processing, and 
 
 ## Featured Projects
 
-### [Chef Bot — Ingredient-to-Recipe Recommender](https://github.com/wenn-d/data-science-portfolio/blob/main/Chef%20Bot%20%E2%80%94%20Ingredient-to-Recipe%20Recommender.ipynb)
+### [Chef Bot — Ingredient-to-Recipe Recommender]
 *Group project | Machine Learning Course, CBS*  
 *A retrieval-based and conversational recommendation system for reducing food waste*
 
