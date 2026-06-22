@@ -17,6 +17,7 @@ The work focuses on applying machine learning, natural language processing, and 
 
 ### [Chef Bot — Ingredient-to-Recipe Recommender](https://github.com/wenn-d/data-science-portfolio/blob/main/Chef%20Bot%20%E2%80%94%20Ingredient-to-Recipe%20Recommender.ipynb)
 *Group project | Machine Learning Course, CBS*  
+
 *A retrieval-based and conversational recommendation system for reducing food waste*
 
 Developed a two-stage recommendation system that suggests recipes based on available ingredients and supports conversational follow-up queries using a lightweight language model.
@@ -48,6 +49,7 @@ Built a multiclass classification model to predict parcel dwell time in NYC smar
 
 ### [UK Greenhouse Gas Emissions — EDA & Clustering](https://github.com/wenn-d/data-science-portfolio/blob/main/UK%20Greenhouse%20Gas%20Emissions.ipynb)
 *Group project | Machine Learning and Deep Learning Course, CBS*
+
 Exploratory data analysis and clustering of UK emissions data to identify structural patterns across sectors.
 
 - Implemented KMeans clustering and statistical analysis from scratch  
@@ -59,6 +61,7 @@ Exploratory data analysis and clustering of UK emissions data to identify struct
 
 ### [Financial Asset Analysis — Ethereum vs Novo Nordisk](https://github.com/wenn-d/data-science-portfolio/blob/main/Financial%20Asset%20Analysis%20%E2%80%94%20Ethereum%20vs%20Novo%20Nordisk.ipynb)
 *Group project | Machine Learning and Deep Learning Course, CBS*
+
 Quantitative analysis of crypto and equity assets using risk-return frameworks.
 
 - Calculated log returns, volatility, and Sharpe ratios  
