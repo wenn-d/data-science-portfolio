@@ -1,39 +1,78 @@
 # Data Science Portfolio
-**Wendy Win Pa Pa Swe** | MSc Business Administration and Data Science, Copenhagen Business School
+
+**Wendy Win Pa Pa Swe**  
+MSc Business Administration and Data Science, Copenhagen Business School
 
 ---
 
-## Projects
+## Overview
 
-### [Predicting Parcel Pickup Time — GoLocker NYC](golocker-classification.ipynb)
-`Python` `scikit-learn` `Random Forest` `Neural Network` `Logistic Regression`
+This repository contains selected data science and machine learning projects completed during my MSc at Copenhagen Business School.
 
-Multiclass classification to predict how long parcels stay in NYC smart lockers using real GoLocker operational data. Includes geospatial dataset merging with fuzzy matching and BallTree, feature engineering, and comparison of three ML models.
-
----
-
-### [Chef Bot — Ingredient-to-Recipe Recommender](chef-bot-nlp.ipynb)
-`Python` `NLP` `SBERT` `Word2Vec` `TF-IDF` `RAG` `Qwen3-1.7B`
-
-A two-stage conversational recipe recommendation system to reduce household food waste. Benchmarked three retrieval methods across 13,000+ recipes, then built a RAG pipeline with a local small language model for follow-up conversation.
+The work focuses on applying machine learning, natural language processing, and statistical analysis to real-world datasets across logistics, finance, and sustainability domains.
 
 ---
 
-## Coursework
+## Featured Projects
 
-### [UK Greenhouse Gas Emissions — EDA & Clustering](ghg-emissions-clustering.ipynb)
-`Python` `KMeans` `Pearson correlation (from scratch)`
+### Chef Bot — Ingredient-to-Recipe Recommender
+*A retrieval-based and conversational recommendation system for reducing food waste*
 
-Exploratory analysis of UK territorial emissions data with manually implemented covariance and correlation functions (no sklearn), plus KMeans clustering.
+Developed a two-stage recommendation system that suggests recipes based on available ingredients and supports conversational follow-up queries using a lightweight language model.
+
+- Designed and evaluated multiple text retrieval approaches (TF-IDF, Word2Vec, SBERT) on 13,000+ recipes  
+- Built a retrieval-augmented generation (RAG) pipeline to improve relevance and interaction quality  
+- Implemented a conversational layer using a local LLM for iterative user queries  
+
+**Tools:** Python, NLP (SBERT, TF-IDF, Word2Vec), pandas, scikit-learn
 
 ---
 
-### [Financial Asset Analysis — Ethereum vs Novo Nordisk](financial-analysis.ipynb)
-`Python` `Sharpe Ratio` `Efficient Frontier` `Log Returns`
+### Predicting Parcel Pickup Time — GoLocker NYC
+*Machine learning for optimisation of smart locker logistics*
 
-Quantitative comparison of crypto vs equity investment using log returns, volatility, Sharpe ratio, and Monte Carlo efficient frontier simulation.
+Built a multiclass classification model to predict parcel dwell time in NYC smart lockers using real operational data.
+
+- Engineered geospatial and behavioural features using BallTree and fuzzy matching  
+- Trained and compared multiple models including Random Forest, Logistic Regression, and Neural Networks  
+- Analysed operational patterns to support improved logistics efficiency  
+
+**Tools:** Python, scikit-learn, pandas
 
 ---
 
-## Stack
-Python · R · scikit-learn · pandas · spaCy · SBERT · SQL · Power BI · Tableau
+## Coursework Projects
+
+### UK Greenhouse Gas Emissions — EDA & Clustering
+Exploratory data analysis and clustering of UK emissions data to identify structural patterns across sectors.
+
+- Implemented KMeans clustering and statistical analysis from scratch  
+- Investigated correlations and emission trends across categories  
+
+**Tools:** Python, pandas, NumPy
+
+---
+
+### Financial Asset Analysis — Ethereum vs Novo Nordisk
+Quantitative analysis of crypto and equity assets using risk-return frameworks.
+
+- Calculated log returns, volatility, and Sharpe ratios  
+- Built Monte Carlo simulations for portfolio analysis  
+- Compared risk-adjusted performance across asset classes  
+
+**Tools:** Python, pandas, NumPy
+
+---
+
+## Skills
+
+Machine learning, natural language processing, and data analysis using Python.
+
+Tools include: pandas, NumPy, scikit-learn, and visualisation tools such as Power BI and Tableau.
+
+---
+
+## Contact
+
+GitHub: https://github.com/wenn-d  
+LinkedIn: linkedin.com/in/wendy-win-pa-pa-swe-290702260
